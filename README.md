@@ -3,13 +3,14 @@
 <div align="center">
   <p>Official methodology and technical governance for high-ticket B2B digital engineering.</p>
   <p>
-    <a href="#-english">🇺🇸 English</a> | 
-    <a href="#-português">🇧🇷 Português</a>
+    <a href="#english">🇺🇸 English</a> | 
+    <a href="#português">🇧🇷 Português</a>
   </p>
 </div>
 
 ***
 
+<a id="english"></a>
 ## 🇺🇸 English
 
 ### Vision
@@ -34,6 +35,7 @@ Looking for elite B2B infrastructure and high-ticket digital engineering?
 
 ***
 
+<a id="português"></a>
 ## 🇧🇷 Português
 
 ### Visão
